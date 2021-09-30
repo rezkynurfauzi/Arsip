@@ -145,6 +145,7 @@ if (empty($_SESSION['username'])) {
                                         <b>Detail Buku</b>
                                     </div>
                                     <div class="col-lg-6 text-right">
+                                    <a href="<?php echo $data['buku']; ?>" target="_blank" class="btn btn-sm btn-primary"> Download Buku <i class="fa fa-download"></i></a>
                                         <a href="buku.php" class="btn btn-sm btn-warning"> Kembali <i class="fa fa-arrow-circle-right"></i></a>
                                     </div>
                                 </div>
