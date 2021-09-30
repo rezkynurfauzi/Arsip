@@ -51,11 +51,6 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="backup.php">
-                                        <i class="fa fa-check-square"></i> <span>Backup Data</span>
-                                    </a>
-                                </li>
-                                <li>
                                     <a href="tentang.php">
                                         <i class="fa fa-envelope"></i> <span>Tentang Arsip Buku</span>
                                     </a>
